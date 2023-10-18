@@ -1,0 +1,202 @@
+Loading cs402-mpi
+  Loading requirement: gcc9
++++++++++++++++++++++
+  Running deqn v0.1  
+- input file: square_custom
+- dt_max: 0.2
+- initial_dt: 0.04
+- start_time: 0
+- end_time: 0.8
+- vis_frequency: 1
+- summary_frequency: 1
++++++++++++++++++++++
+
+full_foralloc took 0.0080682 seconds
+allocate update took 0.00812908 seconds
+new_mesh took 0.00813539 seconds
+new_diffusion took 0.138926 seconds
++ step: 1, dt:   0.04
+full_for_diffuse took 0.961538 seconds
+diffusion took 0.961559 seconds
+reset took 0.447593 seconds
+boundary_update took 0.0118816 seconds
+do_cycle took 1.42107 seconds
+full_forreductook 0.266915 seconds
+total_temp took 0.266921 seconds
++	current total temperature: 5.625e+08
++ step: 2, dt:   0.04
+full_for_diffuse took 0.749397 seconds
+diffusion took 0.749405 seconds
+reset took 0.376383 seconds
+boundary_update took 0.00285387 seconds
+do_cycle took 1.12866 seconds
+full_forreductook 0.219986 seconds
+total_temp took 0.219995 seconds
++	current total temperature: 5.625e+08
++ step: 3, dt:   0.04
+full_for_diffuse took 0.705732 seconds
+diffusion took 0.70575 seconds
+reset took 0.327919 seconds
+boundary_update took 0.00304174 seconds
+do_cycle took 1.03672 seconds
+full_forreductook 0.193787 seconds
+total_temp took 0.193792 seconds
++	current total temperature: 5.625e+08
++ step: 4, dt:   0.04
+full_for_diffuse took 0.694577 seconds
+diffusion took 0.694597 seconds
+reset took 0.311209 seconds
+boundary_update took 0.00295713 seconds
+do_cycle took 1.00877 seconds
+full_forreductook 0.185299 seconds
+total_temp took 0.185305 seconds
++	current total temperature: 5.625e+08
++ step: 5, dt:   0.04
+full_for_diffuse took 0.706591 seconds
+diffusion took 0.706603 seconds
+reset took 0.329346 seconds
+boundary_update took 0.00300427 seconds
+do_cycle took 1.03897 seconds
+full_forreductook 0.195335 seconds
+total_temp took 0.19534 seconds
++	current total temperature: 5.625e+08
++ step: 6, dt:   0.04
+full_for_diffuse took 0.724143 seconds
+diffusion took 0.724159 seconds
+reset took 0.333977 seconds
+boundary_update took 0.00325281 seconds
+do_cycle took 1.06141 seconds
+full_forreductook 0.195577 seconds
+total_temp took 0.195582 seconds
++	current total temperature: 5.625e+08
++ step: 7, dt:   0.04
+full_for_diffuse took 0.712962 seconds
+diffusion took 0.712972 seconds
+reset took 0.322641 seconds
+boundary_update took 0.00329536 seconds
+do_cycle took 1.03892 seconds
+full_forreductook 0.192398 seconds
+total_temp took 0.192404 seconds
++	current total temperature: 5.625e+08
++ step: 8, dt:   0.04
+full_for_diffuse took 0.716897 seconds
+diffusion took 0.716904 seconds
+reset took 0.3323 seconds
+boundary_update took 0.00303191 seconds
+do_cycle took 1.05226 seconds
+full_forreductook 0.195512 seconds
+total_temp took 0.195518 seconds
++	current total temperature: 5.625e+08
++ step: 9, dt:   0.04
+full_for_diffuse took 0.722143 seconds
+diffusion took 0.722152 seconds
+reset took 0.318074 seconds
+boundary_update took 0.0029947 seconds
+do_cycle took 1.04323 seconds
+full_forreductook 0.184902 seconds
+total_temp took 0.18491 seconds
++	current total temperature: 5.625e+08
++ step: 10, dt:   0.04
+full_for_diffuse took 0.704183 seconds
+diffusion took 0.70419 seconds
+reset took 0.315102 seconds
+boundary_update took 0.00300144 seconds
+do_cycle took 1.02232 seconds
+full_forreductook 0.194752 seconds
+total_temp took 0.194757 seconds
++	current total temperature: 5.625e+08
++ step: 10, dt:   0.04
+full_for_diffuse took 0.723843 seconds
+diffusion took 0.723853 seconds
+reset took 0.328908 seconds
+boundary_update took 0.00299843 seconds
+do_cycle took 1.05577 seconds
+full_forreductook 0.194714 seconds
+total_temp took 0.194719 seconds
++	current total temperature: 5.625e+08
++ step: 11, dt:   0.04
+full_for_diffuse took 0.724165 seconds
+diffusion took 0.724176 seconds
+reset took 0.328243 seconds
+boundary_update took 0.00299946 seconds
+do_cycle took 1.05543 seconds
+full_forreductook 0.192006 seconds
+total_temp took 0.192012 seconds
++	current total temperature: 5.625e+08
++ step: 12, dt:   0.04
+full_for_diffuse took 0.723424 seconds
+diffusion took 0.723435 seconds
+reset took 0.32887 seconds
+boundary_update took 0.00306194 seconds
+do_cycle took 1.05538 seconds
+full_forreductook 0.176202 seconds
+total_temp took 0.17621 seconds
++	current total temperature: 5.625e+08
++ step: 13, dt:   0.04
+full_for_diffuse took 0.684489 seconds
+diffusion took 0.684495 seconds
+reset took 0.310863 seconds
+boundary_update took 0.00298905 seconds
+do_cycle took 0.998358 seconds
+full_forreductook 0.185207 seconds
+total_temp took 0.185212 seconds
++	current total temperature: 5.625e+08
++ step: 14, dt:   0.04
+full_for_diffuse took 0.7232 seconds
+diffusion took 0.723211 seconds
+reset took 0.328361 seconds
+boundary_update took 0.00301905 seconds
+do_cycle took 1.0546 seconds
+full_forreductook 0.194642 seconds
+total_temp took 0.194647 seconds
++	current total temperature: 5.625e+08
++ step: 16, dt:   0.04
+full_for_diffuse took 0.704695 seconds
+diffusion took 0.704703 seconds
+reset took 0.317268 seconds
+boundary_update took 0.00300111 seconds
+do_cycle took 1.02498 seconds
+full_forreductook 0.190778 seconds
+total_temp took 0.190783 seconds
++	current total temperature: 5.625e+08
++ step: 17, dt:   0.04
+full_for_diffuse took 0.69225 seconds
+diffusion took 0.692268 seconds
+reset took 0.310288 seconds
+boundary_update took 0.00299302 seconds
+do_cycle took 1.00556 seconds
+full_forreductook 0.184846 seconds
+total_temp took 0.184853 seconds
++	current total temperature: 5.625e+08
++ step: 18, dt:   0.04
+full_for_diffuse took 0.696738 seconds
+diffusion took 0.696744 seconds
+reset took 0.330953 seconds
+boundary_update took 0.003069 seconds
+do_cycle took 1.03078 seconds
+full_forreductook 0.195121 seconds
+total_temp took 0.195127 seconds
++	current total temperature: 5.625e+08
++ step: 19, dt:   0.04
+full_for_diffuse took 0.724167 seconds
+diffusion took 0.724183 seconds
+reset took 0.336307 seconds
+boundary_update took 0.0031128 seconds
+do_cycle took 1.06362 seconds
+full_forreductook 0.195562 seconds
+total_temp took 0.195568 seconds
++	current total temperature: 5.625e+08
++ step: 20, dt:   0.04
+full_for_diffuse took 0.711685 seconds
+diffusion took 0.711693 seconds
+reset took 0.310768 seconds
+boundary_update took 0.00327765 seconds
+do_cycle took 1.02576 seconds
+full_forreductook 0.18526 seconds
+total_temp took 0.185267 seconds
++	current total temperature: 5.625e+08
+
++++++++++++++++++++++
+   Run completete.   
++++++++++++++++++++++
+driver.run() took 25.1424 seconds

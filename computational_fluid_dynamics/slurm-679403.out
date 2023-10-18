@@ -1,0 +1,7 @@
+Loading cs402-mpi
+  Loading requirement: gcc9
+Init MPI
+Init MPI
+Main Loop started
+Main Loop started
+slurmstepd: error: *** JOB 679403 ON viper-02 CANCELLED AT 2023-03-23T04:32:15 DUE TO TIME LIMIT ***
